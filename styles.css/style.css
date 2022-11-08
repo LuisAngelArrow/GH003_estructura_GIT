@@ -1,0 +1,14 @@
+:root{
+     --colorPrincipal: blue;
+}
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body{
+
+    backgorund-color: aliceblue;
+}
